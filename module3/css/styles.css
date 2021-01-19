@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+}
+h1 {
+    color: black;
+}
+#header-nav {
+    background-color: rgba(247, 101, 101, 0.466);
+    border-radius: 0;
+    border: 0;
+}
+.navbar-brand {
+    margin-top: 0;
+    font-size: 1.2em;
+}
+#nav-list {
+    color: red;
+    text-align: center;
+    margin-top: -5px;
+}
+#text-background {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: grey;
+}
